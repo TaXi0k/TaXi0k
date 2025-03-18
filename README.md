@@ -1,12 +1,12 @@
 ## Howdy! 💜
 
 ╭❁ ﹋ ꕤ ﹋<br />
-│ **『**🫧**』Currently learning:** Unreal Engine, Java <br />
-│ **『**💜**』Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
-│‎ **『**🪻**』How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
-│ **『**☑️**』Completed projects:** none yet <br />
-│ **『**🦄**』Pronouns:** he/him <br />
-│ **『**☂️**』Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
+│ 🫧**Currently learning:** Unreal Engine, Java <br />
+│ 💜**Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
+│‎ 🪻**How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
+│ ☑️**Completed projects:** none yet <br />
+│ 🦄**Pronouns:** he/him <br />
+│ ☂️**Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
 │ 
 │ 
 │
