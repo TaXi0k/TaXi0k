@@ -2,7 +2,7 @@
 I'm at the start of my programming journey. Right now I know a bit of Python, C++ and Java. I love playing and making games. I am currently trying to do my first more ambitious UE project - a pretty simple horror game. I also try to do my first Minecraft 1.20.1 Forge mod in my free time. Sadly I haven't completed any bigger projects yet. <br>
 Besides programming I'm also trying to learn Blender... well I don't have much time to do it so I ended up on donut and one simple model but I guess it counts. <br><br>
 <a href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured">![Static Badge](https://img.shields.io/badge/YouTube-%23ad00ff?style=for-the-badge&logo=youtube&logoColor=white)</a>
-<a href="https://www.instagram.com/taxi0k/">![Static Badge](https://img.shields.io/badge/Instagram-%239622ee?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/taxi0k/">![Static Badge](https://img.shields.io/badge/Instagram-#8e26df?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://steamcommunity.com/id/TaXi0k/">![Static Badge](https://img.shields.io/badge/Steam%20Community-%23822edc?style=for-the-badge&logo=steam&logoColor=white)
 </a>
 <a href="https://twitch.tv/taxi0k">![Static Badge](https://img.shields.io/badge/More_Links-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white)</a>
