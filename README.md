@@ -1,7 +1,7 @@
 ## Howdy! 💜
 
-╭❁ ﹋ ꕤ ﹋__
-│ **『**🧠**』Currently learning:** Unreal Engine, __
+╭❁ ﹋ ꕤ ﹋<br />
+│ **『**🧠**』Currently learning:** Unreal Engine, <br />
 │ 
 │
 │
