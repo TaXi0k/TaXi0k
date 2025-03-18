@@ -1,6 +1,6 @@
 ## Howdy! 💜
 
-## Some info about me:
+## 𝚂𝚘𝚖𝚎 𝚒𝚗𝚏𝚘 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:
 🫧 **Currently learning:** Unreal Engine, Java <br />
 💜 **Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
 │🪻 **How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
