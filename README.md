@@ -4,8 +4,8 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <a href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured">![Static Badge](https://img.shields.io/badge/YouTube-%23db00ff?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://www.instagram.com/taxi0k/">![Static Badge](https://img.shields.io/badge/Instagram-%23ae2ce1?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://steamcommunity.com/id/TaXi0k/">![Static Badge](https://img.shields.io/badge/Steam%20Community-%238634c1?style=for-the-badge&logo=steam&logoColor=white)</a>
-<a href="https://twitch.tv/taxi0k">![Static Badge](https://img.shields.io/badge/More_Links-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white)</a>
-<a href="https://linktr.ee/taxi0k">![Static Badge](https://img.shields.io/badge/More_Links-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white)</a>
+<a href="https://twitch.tv/taxi0k">![Static Badge](https://img.shields.io/badge/Twitch-%2364349e?style=for-the-badge&logo=twitch&logoColor=white)</a>
+<a href="https://linktr.ee/taxi0k">![Static Badge](https://img.shields.io/badge/More%20links-%23472f79?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
 🪻 **How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
 ☑️ **Completed projects:** none yet <br />
