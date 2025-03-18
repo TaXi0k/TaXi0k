@@ -1,6 +1,7 @@
 ## Howdy! 💜
 
 ## ✩°｡⋆⸜ TaXi0k ✮ ᯓ★:
+I'm at the start of my programming journey. Right now i know a bit of Python, C++ and Java. I love playing and making games, currently trying to do my first ambitious UE project - simple horror game. I also try to do my first minecraft 1.20.1 Forge mod.
 🫧 **Currently learning:** Unreal Engine, Java <br />
 💜 **Currently working on:** simple UE5.4.4 horror game, pretty simple minecraft mod <br />
 🪻 **How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
