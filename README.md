@@ -7,7 +7,11 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <a href="https://twitch.tv/taxi0k">![Static Badge](https://img.shields.io/badge/Twitch-%2364349e?style=for-the-badge&logo=twitch&logoColor=white)</a>
 <a href="https://linktr.ee/taxi0k">![Static Badge](https://img.shields.io/badge/More%20links-%23472f79?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <br><br>
-## How to reach me?
+
+
+
+## Contact me here:
+
 <a href="https://discord.com/users/748861794637971547">![Static Badge](https://img.shields.io/badge/Text%20me%20on%20discord-%23a00cdb?style=for-the-badge&logo=Discord&logoColor=Ffffff&labelColor=%238a0dc9)</a><br>
 <a href="https://www.instagram.com/taxi0k/">![Static Badge](https://img.shields.io/badge/Message%20me%20on%20instagram-%23620ba4?style=for-the-badge&logo=Instagram&logoColor=Ffffff&labelColor=%234f0891)</a>
 - 🔭 I’m currently working on ...
