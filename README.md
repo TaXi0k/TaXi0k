@@ -8,7 +8,8 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <a href="https://linktr.ee/taxi0k">![Static Badge](https://img.shields.io/badge/More%20links-%23472f79?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <br><br>
 ## How to reach me?
-- Text me on ![Static Badge](https://img.shields.io/badge/Discord-%23472f79?style=flat-square&logo=discord&logoColor=white)
+- Text me on [Discord](https://discord.com/users/748861794637971547)
+- Message me on [Instagram](https://www.instagram.com/taxi0k/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
