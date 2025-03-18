@@ -1,11 +1,12 @@
 ## Howdy! 💜
 
 ## ✩°｡⋆⸜ TaXi0k ✮ ᯓ★:
-I'm at the start of my programming journey. Right now I know a bit of Python, C++ and Java. I love playing and making games.<br>
-I am currently trying to do my first more ambitious UE project - a pretty simple horror game. I also try to do my first <br>
-Minecraft 1.20.1 Forge mod in my free time. Sadly I haven't completed any bigger projects yet. <br>
-Besides programming I'm also trying to learn Blender... well I don't have much time to do it so I ended up on donut and one simple model<br>
-but I guess it counts.
+I'm at the start of my programming journey. Right now I know a bit of Python, C++ and Java. <br>
+I love playing and making games. I am currently trying to do my first more ambitious <br>
+UE project - a pretty simple horror game. I also try to do my first Minecraft 1.20.1 Forge mod<br>
+in my free time. Sadly I haven't completed any bigger projects yet. <br>
+Besides programming I'm also trying to learn Blender... well I don't have much time to do it so <br>
+I ended up on donut and one simple model but I guess it counts.
 🪻 **How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
 ☑️ **Completed projects:** none yet <br />
 🦄 **Pronouns:** he/him <br />
