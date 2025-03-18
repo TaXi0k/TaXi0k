@@ -2,8 +2,8 @@
 
 ╭❁ ﹋ ꕤ ﹋<br />
 │ **『**🧠**』Currently learning:** Unreal Engine, <br />
-│ **『**🧠**』Currently working on:** UE5.4.4 horror game, <br />
-│
+│ **『**🧠**』Currently working on:** , pretty simple minecraft mod <br />
+│-UE5.4.4 horror game
 │
 │ 
 │ 
