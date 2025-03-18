@@ -8,11 +8,7 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <a href="https://linktr.ee/taxi0k">![Static Badge](https://img.shields.io/badge/More%20links-%23472f79?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <br><br>
 ## How to reach me?
-🪻 **How to reach me:** [discord](https://discord.com/users/748861794637971547), [Instagram](https://www.instagram.com/taxi0k/) <br />
-☑️ **Completed projects:** none yet <br />
-🦄 **Pronouns:** he/him <br />
-☂️ **Currently working on:** simple UE5.4.4 horror game, pretty simple Minecraft mod <br />
-<img src="https://cdn.discordapp.com/attachments/799130923778048020/1186467768091017297/ezgif-3-b6c1f8398c.gif?ex=67dabaf7&is=67d96977&hm=6fe2c94b678406c7d0661763e2f9cf131ea54730db125041ee14f06937fe013c&">
+- Text me on ![Static Badge](https://img.shields.io/badge/Discord-%238634c1?style=for-the-badge&logo=discord&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
