@@ -27,13 +27,11 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 ## 🫐⸝⸝˚₊・my projects
 <table>
   <tr>
-    <td>hi</td>
-    <td>world</td>
+    <td><img src="./noimage.svg" height=auto width=350></td>
+    <td>My Summer Work</td>
   </tr>
   <tr>
     <td>nice</td>
     <td>work</td>
   </tr>
 </table>
-<img src="./noimage.svg" height=auto width=350>
-My Summer Work
