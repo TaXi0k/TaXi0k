@@ -26,4 +26,4 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 
 ## 🫐⸝⸝˚₊・my projects
 <br>
-![Image Alt Text](projectsGrid_MSW.svg)
+<img stc="projectsGrid_MSW.svg">
