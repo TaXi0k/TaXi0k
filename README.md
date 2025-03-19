@@ -25,5 +25,5 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## 🫐⸝⸝˚₊・my projects
-<img src="../noimage.svg">
+<img src="./noimage.svg">
 
