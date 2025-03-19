@@ -26,4 +26,4 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 
 ## 🫐⸝⸝˚₊・my projects
 <br>
-![MSW](projectsGrid_MSW.svg)
+![MSW](./projectsGrid_MSW.svg)
