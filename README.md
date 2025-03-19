@@ -31,7 +31,8 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
     <td>world</td>
   </tr>
   <tr>
-    
+    <td>nice</td>
+    <td>work</td>
   </tr>
 </table>
 <img src="./noimage.svg" height=auto width=350>
