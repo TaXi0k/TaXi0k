@@ -32,6 +32,8 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 
 ## specs
 ![Static Badge](https://img.shields.io/badge/Ryzen%207%205800X3D-620ba4?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
-![Static Badge](https://img.shields.io/badge/GeForce%20RTX%204070%20AERO%20OC%20V2-a00cdb?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto&labelColor=8a0dc9)
-![Static Badge](https://img.shields.io/badge/STRIX%20B550--A%20GAMING-620ba4?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white&logoSize=auto&labelColor=4f0891)
+![Static Badge](https://img.shields.io/badge/GeForce%20RTX%204070%20AERO%20OC%20V2-a00cdb?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto&labelColor=8a0dc9)<br>
+![Static Badge](https://img.shields.io/badge/STRIX%20B550--A%20GAMING-620ba4?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
+![Static Badge](https://img.shields.io/badge/Vengeance%20RGB%20RT%20DDR4%2064GB%203600MHz%20CL18-a00cdb?style=for-the-badge&logo=corsair&logoColor=white&logoSize=auto&labelColor=8a0dc9)<br>
+
 
