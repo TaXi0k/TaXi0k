@@ -25,5 +25,14 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## 🫐⸝⸝˚₊・my projects
+<table>
+  <tr>
+    <td>hi</td>
+    <td>world</td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
 <img src="./noimage.svg" height=auto width=350>
 My Summer Work
