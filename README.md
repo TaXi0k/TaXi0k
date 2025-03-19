@@ -24,6 +24,6 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 - I’m part of the best crew ever – <a href="https://linktr.ee/misiadanumerjeden">Misiada numer jeden</a>. We’re just here to post funny moments and some good ol' shitposts on [YouTube](https://youtube.com/@misiadanumer1?si=KgymS_SF5ZK-UM5O).
 
 ## <details>
-  <summary>Ongoing projects</summary>
-  hi
-</details>
+##  <summary>Ongoing projects</summary>
+##  hi
+## </details>
