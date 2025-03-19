@@ -31,6 +31,6 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## specs
-![Static Badge](https://img.shields.io/badge/Ryzen%207%205800X3D-620ba4?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=4f0891)
+![Static Badge](https://img.shields.io/badge/Ryzen%207%205800X3D-620ba4?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
 ![Static Badge](https://img.shields.io/badge/GeForce%20RTX%204070%20AERO%20OC%20V2-a00cdb?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto&labelColor=8a0dc9)
 
