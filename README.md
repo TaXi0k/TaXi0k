@@ -35,5 +35,9 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 ![Static Badge](https://img.shields.io/badge/GeForce%20RTX%204070%20AERO%20OC%20V2-a00cdb?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto&labelColor=8a0dc9)<br>
 ![Static Badge](https://img.shields.io/badge/STRIX%20B550--A%20GAMING-620ba4?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
 ![Static Badge](https://img.shields.io/badge/Vengeance%20RGB%20RT%20DDR4%2064GB%203600MHz%20CL18-a00cdb?style=for-the-badge&logo=corsair&logoColor=white&logoSize=auto&labelColor=8a0dc9)<br>
+![Static Badge](https://img.shields.io/badge/h150i%20elite%20lcd%20xt%20(360mm)-620ba4?style=for-the-badge&logo=corsair&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
+![Static Badge](https://img.shields.io/badge/980%20500GB%20M.2%202280%20PCI--E%20x4%20Gen3%20NVMe-a00cdb?style=for-the-badge&logo=samsung&logoColor=white&logoSize=auto&labelColor=8a0dc9)<br>
+![Static Badge](https://img.shields.io/badge/MP600%20GS%202TB%20M.2%202280%20PCI--E%20x4%20Gen4%20NVMe-620ba4?style=for-the-badge&logo=corsair&logoColor=white&logoSize=auto&labelColor=4f0891)<br>
+![Static Badge](https://img.shields.io/badge/Toughpower%20GF%20A3%20750W-a00cdb?style=for-the-badge&logo=thermaltake&logoColor=white&logoSize=auto&label=ThermalTake&labelColor=8a0dc9)<br>
 
 
