@@ -1,3 +1,10 @@
+<style>
+  table, th, td {
+    border-collapse:collapse;
+    border:0px solid transparent;
+  }
+</style>
+
 ## ✩°｡⋆⸜ TaXi0k ✮ ᯓ★:
 I'm at the start of my programming journey. Right now I know a bit of HTML & CSS, Python, C++ and Java. I love playing and making games. I am currently trying to do my first more ambitious UE project - a pretty simple horror game. I also try to do my first Minecraft 1.20.1 Forge mod in my free time. Sadly I haven't completed any bigger projects yet. <br>
 Besides programming I'm also trying to learn Blender... well I don't have much time to do it so I ended up on donut and one simple model but I guess it counts. <br><br>
@@ -25,7 +32,7 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## 🫐⸝⸝˚₊・my projects
-<table style="border-collapse: collapse; width: 100%; background: transparent;">
+<table>
   <tr>
     <td width=350 style="padding: 8px;"><img src="./noimage.svg" height=auto width=350></td>
     <td style="padding: 8px;">
