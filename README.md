@@ -25,7 +25,7 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## 🫐⸝⸝˚₊・my projects
-<table>
+<table style="border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
     <td width=350><img src="./noimage.svg" height=auto width=350></td>
     <td>
