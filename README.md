@@ -10,7 +10,7 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 
 
 
-## <img src="https://cdn.discordapp.com/attachments/1337880324948103341/1351946497880625182/bitmapa.png?ex=67dc39cb&is=67dae84b&hm=66e000000e9c180c7f913a91f2126c2287f157804792afba43c31912a202c4fb&">
+## <img src="https://cdn.discordapp.com/attachments/1337880324948103341/1351946497880625182/bitmapa.png?ex=67dc39cb&is=67dae84b&hm=66e000000e9c180c7f913a91f2126c2287f157804792afba43c31912a202c4fb&" h=auto w=100>
 
 <a href="https://discord.com/users/748861794637971547">![Static Badge](https://img.shields.io/badge/Text%20me%20on%20discord-%23a00cdb?style=for-the-badge&logo=Discord&logoColor=Ffffff&labelColor=%238a0dc9)</a><br>
 <a href="https://www.instagram.com/taxi0k/">![Static Badge](https://img.shields.io/badge/Message%20me%20on%20instagram-%23620ba4?style=for-the-badge&logo=Instagram&logoColor=Ffffff&labelColor=%234f0891)</a>
