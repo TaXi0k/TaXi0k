@@ -25,4 +25,4 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 <br><br>
 
 ## 🫐⸝⸝˚₊・my projects
-<img stc="projectsGrid_MSW.svg">
+<img stc="projectsGrid_MSW.svg" height=auto width=auto>
