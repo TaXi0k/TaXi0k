@@ -27,8 +27,8 @@ Besides programming I'm also trying to learn Blender... well I don't have much t
 ## 🫐⸝⸝˚₊・my projects
 <table style="border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
-    <td width=350><img src="./noimage.svg" height=auto width=350></td>
-    <td>
+    <td width=350 style="padding: 8px;"><img src="./noimage.svg" height=auto width=350></td>
+    <td style="padding: 8px;">
       My Summer Work<br>
       My first more ambitious Unreal Engine project. It is a simple horror game taking place in a fire lookout tower in an Oregon forest. The game is in a super early development phase so I don't even have any images to show off. I'm working on it in my free time so it will be done in like a year or two.
     </td>
