@@ -14,7 +14,7 @@ Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creatin
 
 ## Skills
 
-<details>
+<details open>
 <summary>Click to collapse / expand</summary>
 
 <table>
