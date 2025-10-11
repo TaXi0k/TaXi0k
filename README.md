@@ -10,4 +10,4 @@
 
 ## About Me
 
-Hi, I'm **TaXi0k** — a Polish guy who loves writing code, playing games, and creating my own.
+Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
