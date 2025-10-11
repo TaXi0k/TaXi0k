@@ -12,6 +12,19 @@
 
 Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
+## Skills
+
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/blender.png" alt="Blender" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/ue.png" alt="Unreal Engine" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/cpp.png" alt="C++" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/python.png" alt="Python" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/java.png" alt="Java" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/html.png" alt="HTML" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/css.png" alt="CSS" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/inkscape.png" alt="Inkscape" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/davinci.png" alt="DaVinci Resolve" width="40" height="40">
+<img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/skills/ps.png" alt="Photoshop" width="40" height="40">
+
 ## Hobbies
 
 * Playing games
