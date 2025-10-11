@@ -7,3 +7,7 @@
 <a href="https://steamcommunity.com/id/TaXi0k/"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/steam.png" width="75" height="75" alt="Empty"></a>
 <a href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/youtube.png" width="75" height="75" alt="Empty"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/website.png" width="75" height="75" alt="Empty"></a>
+
+## About Me
+
+Hi, I'm **TaXi0k** — a Polish guy who loves writing code, playing games, and creating my own.
