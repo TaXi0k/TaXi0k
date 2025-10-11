@@ -12,8 +12,9 @@
 
 Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
-## Skills
 
+<details>
+<summary>## Skills</summary>
 |                                        | **Skill**       | **Level**                                                                                                              |
 |----------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------|
 | <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/html.png?raw=true"> | HTML            | I'd say 7.5/10.                                                                                                        |
@@ -27,6 +28,7 @@ Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creatin
 | <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/davinci.png?raw=true"> | DaVinci Resolve | I can edit basic videos with some effects and transitions. I'd give myself something like 5/10.                        |
 | <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/ps.png?raw=true"> | Photoshop       | Maybe something like 7/10.                                                                                             |
 |                                        |                 | **Note:** I don't have any certificates, thats just my estimation (what I'd give myself) so it likely isn't objective. |
+</details>
 
 ## Hobbies
 
