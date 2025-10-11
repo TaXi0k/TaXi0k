@@ -12,8 +12,12 @@
 
 Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
-<details open>
-<summary><h2>Skills</h2></summary>
+## Games I play
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyberpunk_2077_logo.svg/1200px-Cyberpunk_2077_logo.svg.png" width="700">
+
+## Skills
+
 <table>
   <thead>
     <tr>
@@ -80,14 +84,3 @@ Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and cre
     </tr>
   </tbody>
 </table>
-</details>
-
-
-## Hobbies
-
-* Playing games
-  * Cyberpunk 2077
-  * Fallout 76
-  * GTA V
-  * Team Fortress 2
-  * `and more`
