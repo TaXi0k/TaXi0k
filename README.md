@@ -12,9 +12,9 @@
 
 Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
-## Games I play
+## My favourite game
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyberpunk_2077_logo.svg/1200px-Cyberpunk_2077_logo.svg.png" width="700">
+![](https://raw.githubusercontent.com/TaXi0k/TaXi0k/744b60c7aa9c802258ee5453ced5d023463d4fc6/.github/assets/cp77.svg)
 
 ## Skills
 
