@@ -12,26 +12,10 @@
 
 Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
+## Skills
 
 <details>
-<summary>## Skills</summary>
-|                                        | **Skill**       | **Level**                                                                                                              |
-|----------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------|
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/html.png?raw=true"> | HTML            | I'd say 7.5/10.                                                                                                        |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/css.png?raw=true"> | CSS             | Something like 7/10 to 8/10.                                                                                           |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/cpp.png?raw=true"> | C++             | Not too great ngl, up to 5/10.                                                                                         |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/python.png?raw=true"> | Python          | Pretty mid, like 4/10 maybe 5/10.                                                                                      |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/ue.png?raw=true"> | Unreal Engine   | I know something but not too much. Like 5/10 maybe 6/10 but that's a stretch.                                          |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/blender.png?raw=true"> | Blender         | I wouldn't give myself more than 6/10 but honestly it might be a bit too much.                                         |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/java.png?raw=true"> | Java            | Again something close to 4/10 maybe 5/10.                                                                              |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/inkscape.png?raw=true"> | Inkscape        | I know basics and can make some simple things. Like idk 5/10 maybe.                                                    |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/davinci.png?raw=true"> | DaVinci Resolve | I can edit basic videos with some effects and transitions. I'd give myself something like 5/10.                        |
-| <img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/ps.png?raw=true"> | Photoshop       | Maybe something like 7/10.                                                                                             |
-|                                        |                 | **Note:** I don't have any certificates, thats just my estimation (what I'd give myself) so it likely isn't objective. |
-</details>
-
-<details>
-<summary>My Skills</summary>
+<summary>Click to collapse / expand</summary>
 
 <table>
   <thead>
