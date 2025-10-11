@@ -8,6 +8,8 @@
 <a href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/youtube.png" width="75" height="75" alt="Empty"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/website.png" width="75" height="75" alt="Empty"></a>
 
-## About Me
+# About Me
 
 Hi, I'm **TaXi0k** — a Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
+
+# Hobbies
