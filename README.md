@@ -12,8 +12,6 @@
 
 Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
-## Skills
-
 <details open>
 <summary><h2>Skills</h2></summary>
 <table>
