@@ -15,8 +15,7 @@ Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and cre
 ## Skills
 
 <details open>
-<summary>Click to collapse / expand</summary>
-
+<summary><h2>Skills</h2></summary>
 <table>
   <thead>
     <tr>
