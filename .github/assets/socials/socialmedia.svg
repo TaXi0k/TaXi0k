@@ -30,8 +30,8 @@
      inkscape:clip-to-page="false"
      showgrid="true"
      inkscape:zoom="0.5"
-     inkscape:cx="423"
-     inkscape:cy="357"
+     inkscape:cx="25"
+     inkscape:cy="691"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="1341"
@@ -83,6 +83,6 @@
          inkscape:label="Inside" /><path
          id="path4"
          style="display:inline;fill:#00fff2;stroke-miterlimit:4.9"
-         d="M 270.93333,0 27.999841,0.0666626 V 270.93333 H 255.99988 l 14.93345,-14.93345 z m -4.76302,4.7630168 V 253.84601 l -12.3243,12.3243 H 32.763375 V 4.8296794 Z"
+         d="M 270.93333,0 27.999841,0.0666626 V 270.93333 H 255.99988 l 14.93345,-14.93345 z M 260.87864,10.054683 V 251.20018 l -9.67846,9.67846 H 38.055042 V 10.121346 Z"
          inkscape:label="Border"
          sodipodi:nodetypes="cccccccccccc" /></g></g></svg>
