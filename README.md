@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi, I'm **TaXi0k** — a <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/2560px-Flag_of_Poland.svg.png" width="15">Polish guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
+Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do.
 
 ## Skills
 
