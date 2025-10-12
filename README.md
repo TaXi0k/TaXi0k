@@ -57,9 +57,9 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
         <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/on.png?raw=true">
         <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/on.png?raw=true">
         <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/on.png?raw=true">
-        <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/off.png?raw=true">
-        <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/off.png?raw=true">
-        <img width="20" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/off.png?raw=true">
+        <img width="20" src="a">
+        <img width="20" src="a">
+        <img width="20" src="a">
       </td>
     </tr>
     <tr>
