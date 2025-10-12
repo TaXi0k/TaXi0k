@@ -16,6 +16,9 @@ Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and cre
 
 ![](https://raw.githubusercontent.com/TaXi0k/TaXi0k/744b60c7aa9c802258ee5453ced5d023463d4fc6/.github/assets/cp77.svg)
 
+# Projects
+![](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/mdl-repo.png?raw=true)
+
 # Skills
 
 <table>
