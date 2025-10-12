@@ -14,7 +14,8 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 # Tools I use
 
-* **Text Editor / IDE:** Visual Studio Code / Visual Studio 2022
+* **Text Editor:** Visual Studio Code
+* **IDE:** Visual Studio 2022
 * **Game Engine:** Unreal Engine 5
 * **3D:** Blender
 
