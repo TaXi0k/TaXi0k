@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Swanky';
+    src: url('../font/FontdinerSwanky/Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Legendary';
+    src: url('../font/ChowderheadMedium/medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.test {
+    font-family: 'Swanky';
+}

@@ -1,0 +1,107 @@
+:root {
+    --link-border-radius: 15px;
+}
+
+.header {
+    justify-items: center;
+    font-family: Legendary;
+    line-height: .4;
+    margin-top: 150px;
+}
+.hello {
+    color:rgb(255, 231, 216);
+    font-size:70px;
+    margin-bottom: -7px;
+}
+.these {
+    color: rgb(255, 231, 216);
+    font-size:60px;
+    margin-bottom: 20px;
+}
+.links {
+    width: 550px;
+    margin-top: 20px;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+/*Links themselves*/
+.LinksContainer1 {
+    align-self: center;
+    /*border: solid hotpink 2px;*/
+    width: 100%;
+    margin-top: 50px;
+}.LinksContainer2 {
+    /*border: solid gold 2px;*/
+    width: 42.5%;
+    justify-self: center;
+}
+.link {
+    width: 100%;
+    height: 7.5%;
+    /*border: dashed 2px red;*/
+    margin-bottom: 20px;
+}
+
+body {
+     background: 
+        linear-gradient(rgba(20, 20, 20, .9), rgba(20, 20, 20, .9)),
+        url('../img/background.png') repeat ;
+}
+
+.link-container {
+    display: flex;
+    transition: 0.2s ease;
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+/* Long red bar */
+.link-main-bar {
+    box-sizing: border-box;
+    /*Text styling*/
+    font-family: Legendary;
+    font-size: 25px;
+    align-content: center;
+    padding-left: 85px;
+    color: rgb(255, 231, 216);
+
+    justify-self: center;
+    align-self: center;
+    position: absolute;
+    width: 100%;
+    height: calc(100% - var(--link-border-radius));
+    background-color: var(--link-color);
+    border-radius: 10px;
+    z-index:0;
+}
+/* Side red square */
+.link-side-square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    background-color: var(--link-color);
+    border-radius: var(--link-border-radius);
+}
+/* Cyan rounded box inside */
+.link-image-box {
+    --border-width: 7px;
+    display: inline-flex;
+    align-content: center;
+    justify-content: center;
+    height: calc(100% - 2 * var(--border-width));
+    width: calc(100% - 2 * var(--border-width));
+    aspect-ratio: 1 / 1;
+    background-color: rgb(235, 216, 191);
+    justify-self: center;
+    align-self: center;
+    border-radius: calc(var(--link-border-radius) - var(--border-width));
+    z-index:2;
+}
+.link-container:hover {
+    cursor: pointer;
+    filter: brightness(1.1) drop-shadow(0 10px 10px rgb(0, 0, 0));
+    transform: translateY(-7px) scale(1.02);
+}
