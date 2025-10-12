@@ -20,6 +20,7 @@
 }
 .links {
     width: 550px;
+    max-width: 90vw;
     margin-top: 20px;
     user-select: none;
     -webkit-user-drag: none;
@@ -64,7 +65,7 @@ body {
     font-size: 25px;
     align-content: center;
     padding-left: 85px;
-    color: rgb(255, 231, 216);
+        color: rgb(255, 231, 216);
 
     justify-self: center;
     align-self: center;
@@ -74,6 +75,10 @@ body {
     background-color: var(--link-color);
     border-radius: 10px;
     z-index:0;
+}@media (max-aspect-ratio: 3/4) {
+    .link-main-bar {
+        padding-left: 33%;
+    }
 }
 /* Side red square */
 .link-side-square {
