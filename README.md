@@ -10,7 +10,7 @@
 
 # About Me
 
-Hi, I'm **TaXi0k** — a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I rarely finish my projects (I mean very rarely, like I finish 1 in 50 projects)
+Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
 
 # My favourite game
 
