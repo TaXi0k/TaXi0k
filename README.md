@@ -12,7 +12,7 @@
 
 Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
 
-![](https://github-readme-stats.vercel.app/api?username=taxi0k&show_icons=true&bg_color=30,27f59a66,55dce466&title_color=27f59aff&text_color=fffefeff&icon_color=55dce4ff&border_color=27f59aff)
+![](https://github-readme-stats.vercel.app/api?username=taxi0k&show_icons=true&bg_color=30,27f59a4d,55dce44d&title_color=#68fcbb&text_color=fffefeff&icon_color=55dce4ff&border_color=27f59aff)
 
 # Tools I use
 
