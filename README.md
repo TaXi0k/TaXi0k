@@ -20,6 +20,7 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
     &text_color=c9d1d9
     &icon_color=58a6ff
     &border_color=30363d
+    &rank_icon=github
     "
     media="(prefers-color-scheme: dark)"
   />
