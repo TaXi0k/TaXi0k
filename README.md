@@ -10,7 +10,7 @@
 
 # About Me
 
-Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
+Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end. Oh and I almost forgot to add **I love raccoons!**
 <br><br>
 <img height="300" src="https://github-readme-stats.vercel.app/api?username=taxi0k&show_icons=true&bg_color=00000000&title_color=fffefe&text_color=dddfdf&icon_color=aaadad&border_color=fffefe&border_radius=0">
 
