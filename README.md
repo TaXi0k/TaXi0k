@@ -1,5 +1,5 @@
 
-![Hello, World! I'm TaXi0k](https://raw.githubusercontent.com/TaXi0k/TaXi0k/46b07cb8e3f706d209f91a171608fcc4eee64268/.github/assets/repo-cover.svg)
+![Hello, World! I'm TaXi0k](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/profile-cover.png?raw=true)
 
 <a href="https://www.instagram.com/taxi0k/"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/instagram.png" width="75" height="75" alt="Empty"></a>
 <a href="https://www.twitch.tv/taxi0k"><img src="https://raw.githubusercontent.com/TaXi0k/TaXi0k/refs/heads/main/.github/assets/socials/twitch.png" width="75" height="75" alt="Empty"></a>
@@ -14,7 +14,7 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 # My favourite game
 
-![](https://raw.githubusercontent.com/TaXi0k/TaXi0k/744b60c7aa9c802258ee5453ced5d023463d4fc6/.github/assets/cp77.svg)
+![](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/cp77.png?raw=true)
 
 # Projects
 ![](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/mdl-repo.png?raw=true)
