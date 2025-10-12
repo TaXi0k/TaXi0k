@@ -12,11 +12,15 @@
 
 Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
 
+# Tools I use
+
+* **Text Editor / IDE:** Visual Studio Code / Visual Studio 2022
+* **Game Engine:** Unreal Engine 5
+* **3D:** Blender
+
 # My favourite game
 
 ![](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/cp77.png?raw=true)
-
----
 
 # Projects (finished)
 <a href="https://github.com/TaXi0k/MyDeathLink"><img src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/mdl-project.png?raw=true" alt="MyDeathLink - MyDeathLink is a way to sync two games on two PCs so when you die, your friend also dies. WINDOWS ONLY!"></a>
