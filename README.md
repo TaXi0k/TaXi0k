@@ -12,6 +12,18 @@
 
 Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 # Tools I use
 
 * **Text Editor:** Visual Studio Code
