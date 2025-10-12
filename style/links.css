@@ -148,6 +148,24 @@ body {
     filter: none;
     transform: none;
 }
+.twitch-embed-parent {
+    position:absolute;
+    display: flex;
+    aspect-ratio: 16/9;
+    left:45px;
+    bottom:45px;
+    right:45px;
+    top: 50px;
+}
+.twitch-embed {
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    bottom:10%;
+    right:0;
+    border-radius: 15px;
+}
 /*For vertical screens like mobile*/
 @media (max-width: 768px) and (orientation: portrait), (max-aspect-ratio: 3/4) {
     .link-main-bar {
