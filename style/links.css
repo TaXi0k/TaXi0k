@@ -113,6 +113,13 @@ body {
 /*For vertical screens like mobile*/
 @media (max-width: 768px) and (orientation: portrait), (max-aspect-ratio: 3/4) {
     .link-main-bar {
-        padding-left: 33%;
+        padding-left: 11%;
+        padding-right: 5%;
+    }
+    .LinksContainer2 {
+        width: 90%;
+    }
+    .link {
+        height: 5%;
     }
 }
