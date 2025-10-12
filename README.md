@@ -15,7 +15,7 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=taxi0k&show_icons=true
-    &bg_color=50,27f59a,55dce4
+    &bg_color=771144
     &title_color=58a6ff
     &text_color=c9d1d9
     &icon_color=58a6ff
