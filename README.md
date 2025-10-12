@@ -16,6 +16,8 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 ![](https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/cp77.png?raw=true)
 
+---
+
 # Projects (finished)
 <a href="https://github.com/TaXi0k/MyDeathLink"><img src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/mdl-project.png?raw=true" alt="MyDeathLink - MyDeathLink is a way to sync two games on two PCs so when you die, your friend also dies. WINDOWS ONLY!"></a>
 <a href="#"><img src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/1z10-project.png?raw=true" alt="1z10: AUTYZM EDYCJA - My first finished Unreal Engine project. It lets you play 1z10 (something like Fifteen to One) with your friends by streaming your screen."></a>
