@@ -13,14 +13,14 @@
 Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creating my own games. Most of things I do don't work, but sometimes they do. I almost never finish my projects - maybe one out of fifty actually makes it to the end.
 
 <img src="https://github-readme-stats.vercel.app/api?username=taxi0k
-    &show_icons=false
+    &show_icons=true
     &bg_color=771144
     &title_color=58a6ff
     &text_color=c9d1d9
     &icon_color=58a6ff
     &border_color=30363d" 
     />
-    
+
 # Tools I use
 
 * **Text Editor:** Visual Studio Code
