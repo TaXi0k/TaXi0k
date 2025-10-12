@@ -11,6 +11,15 @@
     line-height: .4;
     margin-top: 150px;
 }
+.avatar {
+    width: 12.5%;
+    aspect-ratio: 1 / 1;
+    border-radius: 5%;
+    border: solid 5px rgb(155, 134, 94);
+    margin-bottom: -20px;
+    user-select: none;
+    -webkit-user-drag: none;
+}
 .hello {
     color:rgb(255, 231, 216);
     font-size:70px;
@@ -113,13 +122,20 @@ body {
 /*For vertical screens like mobile*/
 @media (max-width: 768px) and (orientation: portrait), (max-aspect-ratio: 3/4) {
     .link-main-bar {
-        padding-left: 11%;
+        padding-left: 67.5px;
         padding-right: 5%;
+        font-size: 20px;
     }
     .LinksContainer2 {
         width: 90%;
     }
     .link {
-        height: 5%;
+        height: 65px;
+    }
+    .hello {
+        font-size:50px;
+    }
+    .these {
+        font-size:40px;
     }
 }
