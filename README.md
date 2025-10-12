@@ -17,10 +17,10 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 # Tools I use
 
-* **Text Editor:** Visual Studio Code
-* **IDE:** Visual Studio 2022
-* **Game Engine:** Unreal Engine 5
-* **3D:** Blender
+* **Text Editor:** [Visual Studio Code](https://code.visualstudio.com)
+* **IDE:** [Visual Studio 2022](https://visualstudio.microsoft.com/pl/vs)
+* **Game Engine:** [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)
+* **3D:** [Blender](https://www.blender.org)
 
 # Currently working on
 
