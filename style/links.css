@@ -3,6 +3,9 @@
 }
 
 .header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     justify-items: center;
     font-family: Legendary;
     line-height: .4;
@@ -75,10 +78,6 @@ body {
     background-color: var(--link-color);
     border-radius: 10px;
     z-index:0;
-}@media (max-aspect-ratio: 3/4) {
-    .link-main-bar {
-        padding-left: 33%;
-    }
 }
 /* Side red square */
 .link-side-square {
@@ -109,4 +108,11 @@ body {
     cursor: pointer;
     filter: brightness(1.1) drop-shadow(0 10px 10px rgb(0, 0, 0));
     transform: translateY(-7px) scale(1.02);
+}
+
+/*For vertical screens like mobile*/
+@media (max-width: 768px) and (orientation: portrait), (max-aspect-ratio: 3/4) {
+    .link-main-bar {
+        padding-left: 33%;
+    }
 }
