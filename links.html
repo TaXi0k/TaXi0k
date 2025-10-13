@@ -9,6 +9,18 @@
         <link rel="stylesheet" href="style/links.css">
     </head>
     <body>
+        <div class="navbarContainer">
+            <div class="navbarQuote" id="navbarQuote"></div> <!--Random quote-->
+            <div class="navbarLinks">
+                <a href="index.html" style="text-decoration: none;"><div class="navbarElement">Home</div></a>
+                <a href="links.html" style="text-decoration: none;"><div class="navbarElement">Links</div></a>
+                <a href="projects.html" style="text-decoration: none;"><div class="navbarElement">Projects</div></a>
+                <a href="gallery.html" style="text-decoration: none;"><div class="navbarElement">Gallery</div></a>
+                <a href="https://twitch.tv/taxi0k" target="_blank" style="text-decoration: none;"><div class="navbarElement">Streams</div></a>
+                <a href="about.html" style="text-decoration: none;"><div class="navbarElement">About Me</div></a>
+            </div> <!--Landing pgae-->
+        </div>
+
         <div class="header">
             <img alt="my avatar - purple raccoon on black bacground" src="img/avatar.png" class="avatar">
             <p class="hello">Hi! I'm <span style="color:rgb(223, 192, 135);">TaXi0k</span></p>
@@ -17,7 +29,7 @@
         </div>
         <div class="LinksContainer1">
             <div class="LinksContainer2">
-                <a href="http://linktr.ee/misiadanumerjeden"><div class="link">
+                <a target="_blank" href="http://linktr.ee/misiadanumerjeden"><div class="link">
                     <!---LINK1-->
                     <div class="link-container">
                         <div style="--link-color: rgb(124, 162, 131);" class="link-main-bar">My lovely crew - Misiada numer jeden</div>
@@ -26,7 +38,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="https://github.com/TaXi0k"><div class="link">
+                <a target="_blank" href="https://github.com/TaXi0k"><div class="link">
                     <!---LINK2-->
                     <div class="link-container">
                         <div style="--link-color: rgb(115, 106, 71);" class="link-main-bar">My GitHub profile</div>
@@ -35,7 +47,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="https://discord.com/users/748861794637971547"><div class="link">
+                <a target="_blank" href="https://discord.com/users/748861794637971547"><div class="link">
                     <!---LINK3-->
                     <div class="link-container">
                         <div style="--link-color: rgb(84, 183, 198);" class="link-main-bar">My Discord profile</div>
@@ -44,7 +56,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="https://www.instagram.com/taxi0k"><div class="link">
+                <a target="_blank" href="https://www.instagram.com/taxi0k"><div class="link">
                     <!---LINK4-->
                     <div class="link-container">
                         <div style="--link-color: rgb(211, 138, 67);" class="link-main-bar">My Instagram profile</div>
@@ -53,7 +65,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="https://www.steamcommunity.com/id/TaXi0k"><div class="link">
+                <a target="_blank" href="https://www.steamcommunity.com/id/TaXi0k"><div class="link">
                     <!---LINK5-->
                     <div class="link-container">
                         <div style="--link-color: rgb(170, 164, 138);" class="link-main-bar">My Steam Community profile</div>
@@ -62,7 +74,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured"><div class="link">
+                <a target="_blank" href="https://www.youtube.com/channel/UC8ZzXymGLiocWnd9ZMeTPAw/featured"><div class="link">
                     <!---LINK6-->
                     <div class="link-container">
                         <div style="--link-color: rgb(205, 157, 124);" class="link-main-bar">My YouTube channel</div>
@@ -71,7 +83,7 @@
                         </div>
                     </div>
                 </div></a>
-                <a href="#"><div class="twitchholder">
+                <a target="_blank" href="https://twitch.tv/taxi0k"><div class="twitchholder">
                     <div class="link">
                     <!---LINK7-->
                     <div class="link-container twitch">
@@ -96,3 +108,13 @@
         
     </body>
 </html>
+
+<script src="script/quote.js"></script>
+<style>
+    .navbarQuote {
+        --text-color:#FFE7D8;
+    }
+    .navbarElement {
+        --text-color:#FFE7D8;
+    }
+</style>

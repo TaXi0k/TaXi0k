@@ -9,6 +9,18 @@
         <link rel="stylesheet" href="style/index.css">
     </head>
     <body>
+        <div class="navbarContainer">
+            <div class="navbarQuote" id="navbarQuote"></div> <!--Random quote-->
+            <div class="navbarLinks">
+                <a href="index.html" style="text-decoration: none;"><div class="navbarElement">Home</div></a>
+                <a href="links.html" style="text-decoration: none;"><div class="navbarElement">Links</div></a>
+                <a href="projects.html" style="text-decoration: none;"><div class="navbarElement">Projects</div></a>
+                <a href="gallery.html" style="text-decoration: none;"><div class="navbarElement">Gallery</div></a>
+                <a href="https://twitch.tv/taxi0k" target="_blank" style="text-decoration: none;"><div class="navbarElement">Streams</div></a>
+                <a href="about.html" style="text-decoration: none;"><div class="navbarElement">About Me</div></a>
+            </div> <!--Landing pgae-->
+        </div>
+        
         <div class="paralaxContainer">
             <img src="img/landing/background/L8.webp" class="layer layer8" data-depth="1">
             <img src="img/landing/background/L7.webp" class="layer layer7" data-depth="0.8">
@@ -24,14 +36,38 @@
     </body>
 </html>
 
+<!---Link external scripts-->
+<script src="script/quote.js"></script>
+
 <script>
-    document.addEventListener("scroll", () => {
-    const scrolled = window.scrollY;
-    document.querySelectorAll(".layer").forEach(layer => {
-        const depth = layer.getAttribute("data-depth");
-        // invert depth: 1 - depth
-        const movement = -(scrolled * (1 - depth) * 0.5);
-        layer.style.transform = `translateY(${movement}px)`;
+const layers = document.querySelectorAll('.layer');
+
+window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+
+    layers.forEach(layer => {
+        const depth = parseFloat(layer.dataset.depth); // 0.1 - 1
+        const move = scrollY * depth;
+
+        // translateY moves layer relative to scroll
+        layer.style.transform = `translateY(${move}px)`;
+    });
+});
+
+const navbarText = document.querySelectorAll('.navbarElement');
+const navbarQuote = document.getElementById('navbarQuote');
+
+window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+
+    navbarText.forEach(el => {  // loop through each element
+        if(scrollY < 750){
+            el.style.setProperty('--text-color', 'black');
+            navbarQuote.style.setProperty('--text-color', 'black');
+        } else {
+            el.style.setProperty('--text-color', 'white');
+            navbarQuote.style.setProperty('--text-color', 'white');
+        }
     });
 });
 </script>

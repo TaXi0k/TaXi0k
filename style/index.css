@@ -2,6 +2,7 @@
     width: 100%;
     aspect-ratio: 2560 / 1080;
     position: relative;
+    top: 0;
     overflow: hidden;
     perspective: 1px;
     transform-style: preserve-3d;
@@ -19,6 +20,7 @@
     z-index: 10;
     outline: solid 500px rgb(0, 0, 0);
 }
+
 
 body {
     margin:0;
