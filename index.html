@@ -1,9 +1,37 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta charset="utf-8">
 <html>
     <head>
         <title>Hi, I'm TaXi0k!</title>
-        <link rel="icon" type="image/png" href="img/avatar.png" >
+        <link rel="icon" type="image/png" href="img/favicon.png" >
+        <link rel="stylesheet" href="style/main.css">
+        <link rel="stylesheet" href="style/index.css">
     </head>
     <body>
-        Hello world!
+        <div class="paralaxContainer">
+            <img src="img/landing/background/L8.webp" class="layer layer8" data-depth="1">
+            <img src="img/landing/background/L7.webp" class="layer layer7" data-depth="0.8">
+            <img src="img/landing/background/L6.webp" class="layer layer6" data-depth="0.7">
+            <img src="img/landing/background/L5.webp" class="layer layer5" data-depth="0.6">
+            <img src="img/landing/background/L4.webp" class="layer layer4" data-depth="0.5">
+            <img src="img/landing/background/L3.webp" class="layer layer3" data-depth="0.4">
+            <img src="img/landing/background/L2.webp" class="layer layer2" data-depth="0.3">
+            <img src="img/landing/background/L1.webp" class="layer layer1" data-depth="0.2">
+            <img src="img/landing/background/L0.webp" class="layer layer0" data-depth="0.1">
+        </div>
+        Hello World!
     </body>
 </html>
+
+<script>
+    document.addEventListener("scroll", () => {
+    const scrolled = window.scrollY;
+    document.querySelectorAll(".layer").forEach(layer => {
+        const depth = layer.getAttribute("data-depth");
+        // invert depth: 1 - depth
+        const movement = -(scrolled * (1 - depth) * 0.5);
+        layer.style.transform = `translateY(${movement}px)`;
+    });
+});
+</script>
