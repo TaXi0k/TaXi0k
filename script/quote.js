@@ -1,3 +1,6 @@
+/** 
+Actually also whole navbar it is what it is (or not really idk XD)
+**/
 const quotes = [
     'I just want the world to know I was here, that I mattered.',
     'Lecz jak mi powiesz, że wciąż gówno o tym wiem, przyznam Ci rację, bo nie dźwigałem Twych łez...',

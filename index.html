@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="style/index.css">
     </head>
     <body>
-        <div class="navbarContainer">
+        <div class="navbarContainer" id="navbarContainer">
             <div class="navbarQuote" id="navbarQuote"></div> <!--Random quote-->
             <div class="navbarLinks">
                 <a href="index.html" style="text-decoration: none;"><div class="navbarElement">Home</div></a>
@@ -20,7 +20,7 @@
                 <a href="about.html" style="text-decoration: none;"><div class="navbarElement">About Me</div></a>
             </div> <!--Landing pgae-->
         </div>
-        
+
         <div class="paralaxContainer">
             <img src="img/landing/background/L8.webp" class="layer layer8" data-depth="1">
             <img src="img/landing/background/L7.webp" class="layer layer7" data-depth="0.8">
@@ -32,6 +32,16 @@
             <img src="img/landing/background/L1.webp" class="layer layer1" data-depth="0.2">
             <img src="img/landing/background/L0.webp" class="layer layer0" data-depth="0.1">
         </div>
+        <div class="scrollDownContainer">
+            a
+            <div class="scrollDown">
+                <video autoplay muted loop playsinline>
+                    <source src="img/icon/scroll.webm" type="video/webm">
+                </video>
+                SCROLL DOWN
+            </div>
+        </div>
+        
         Hello World!
     </body>
 </html>
@@ -61,7 +71,7 @@ window.addEventListener('scroll', () => {
     const scrollY = window.scrollY;
 
     navbarText.forEach(el => {  // loop through each element
-        if(scrollY < 750){
+        if(scrollY < 780){
             el.style.setProperty('--text-color', 'black');
             navbarQuote.style.setProperty('--text-color', 'black');
         } else {
@@ -70,4 +80,22 @@ window.addEventListener('scroll', () => {
         }
     });
 });
+
+const navbarContainer = document.getElementById('navbarContainer');
+
+function updateNavbarBackground() {
+    const scrollY = window.scrollY;
+
+    if (scrollY > 780) {
+        navbarContainer.style.background = 'black';
+    } else {
+        navbarContainer.style.background = 'none'; // removes gradient
+    }
+}
+
+// Set initial state
+updateNavbarBackground();
+
+// Update on scroll
+window.addEventListener('scroll', updateNavbarBackground);
 </script>
