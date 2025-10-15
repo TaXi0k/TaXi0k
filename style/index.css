@@ -1,9 +1,14 @@
+:root {
+    --scrollbar-width:10px;
+}
+
 .paralaxContainer {
     width: 100%;
     aspect-ratio: 2560 / 1080;
     position: relative;
     top: 0;
-    overflow: hidden;
+    overflow-y:hidden;
+    overflow-x: visible;
     perspective: 1px;
     transform-style: preserve-3d;
 }
@@ -14,12 +19,48 @@
     width: 100%;
     height: auto;
     object-fit: cover;
+    user-select: none;
+    -webkit-user-drag: none;
     transform-origin: center;
 }
-.layer0 {
-    z-index: 10;
-    /*outline: solid 500px rgb(0, 0, 0);*/
+
+@keyframes title_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
 }
+
+.title {
+    background: linear-gradient(to right, #80E8DD, #7CC2F6 , #AF81E4, #E784BB, #F9C1A0, #B8F5AF, #80E8DD);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: title_animation 6s ease-in-out infinite;
+    background-size: 400% 100%;
+    margin-top: 200px;
+    font-family: 'LemonMilk', sans;
+    text-align: center;
+}
+.title > span:nth-child(1) {
+    font-weight: 525;
+    font-size:80px;
+    margin-right: 15px;
+}
+.title > span:nth-child(2) {
+    font-weight: 700;
+    text-decoration: underline;
+    font-size:80px;
+}
+.title > span:nth-child(4) {
+    font-size: 35px;
+    color:rgb(255,255,255,170)
+}
+
+
+
 
 .scollDownContainer {
     background-color: aqua;
@@ -29,13 +70,24 @@
     height: 200px;
     justify-content: center;
     align-items: center;
+    outline: 10px tan solid;
 }
 .scrollDown {
+    display: inline-flex;
     align-self: right;
+    justify-self: right;
+    position: absolute;
+    right: 20px;
+    transform: translateY(50px);
     font-family: 'LemonMilk';
     font-size: 40px;
+    width: auto;
     color: white;
     z-index: 100;
+}
+.scrollDown:hover {
+    cursor: var(--cur-link), pointer;
+    filter: brightness(.9);
 }
 .scrollDown video {
     width: 50px;
@@ -44,9 +96,37 @@
     transform: translateY(-5px);
 }
 body {
+    scrollbar-gutter: stable;
     margin:0;
     padding:0;
     height: 200vh;
     overflow-x: hidden;
     background-color: black;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    width: var(--scrollbar-width);
+    position: absolute;
+    padding-left: 1px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: black;
+    border: solid 2px white;
+    border-radius: 0;
+    margin-left:1px
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(21, 21, 21, 0);
+}
+body.show-scrollbar::-webkit-scrollbar {
+    display: block;
+}
+
+.toggleScroll::after {
+    background-color: transparent;
+}
+.toggleScroll:hover {
+    background-color: rgba(255, 255, 255, 0.35);
 }

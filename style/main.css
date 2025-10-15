@@ -16,7 +16,6 @@
     src: url('../font/Playwrite/PlaywriteHU-Regular.ttf');
 }
 
-
 /**ChowderheadMedium Font**/
 @font-face {
     font-family: 'Legendary';
@@ -90,11 +89,27 @@
     font-style: italic;
     font-weight: 700;
 }
-
-
-
-
 /*END OF FONTS*/
+
+
+/*------------*/
+/**VARIABLES**/
+/*-----------*/
+:root {
+    --cur-normal: url('../img/cursor/pointer.cur');
+    --cur-link: url('../img/cursor/link.cur');
+    --cur-account: url('../img/cursor/account.cur');
+    --cur-cross: url('../img/cursor/cross.cur');
+    --cur-help: url('../img/cursor/help.cur');
+    --cur-text: url('../img/cursor/text.cur');
+    --cur-no: url('../img/cursor/unavailiable.cur');
+}
+
+
+body, html {
+    cursor: var(--cur-normal), default;
+}
+
 
 .navbarContainer {
     position: fixed;
@@ -107,6 +122,7 @@
     justify-content: center;
     z-index: 1000;
     display: flex;
+    border:0 transparent;
 }
 .navbarQuote {
     font-family: "Instagram Sans", serif;
@@ -145,7 +161,7 @@
 
     transition: color 0.3s ease;
     position:relative;
-    cursor: pointer;
+    cursor: var(--cur-link), pointer;
     /*Text*/
     display: block;
     box-sizing: border-box;

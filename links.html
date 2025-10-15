@@ -10,7 +10,7 @@
     </head>
     <body>
         <div class="navbarContainer">
-            <div class="navbarQuote" id="navbarQuote"></div> <!--Random quote-->
+            <div class="navbarQuote" id="navbarQuote" title="My favorite quotes"></div> <!--Random quote-->
             <div class="navbarLinks">
                 <a href="index.html" style="text-decoration: none;"><div class="navbarElement">Home</div></a>
                 <a href="links.html" style="text-decoration: none;"><div class="navbarElement">Links</div></a>
@@ -112,12 +112,12 @@
 <script src="script/quote.js"></script>
 <style>
     .navbarQuote {
-        --text-color:#FFE7D8;
+        --text-color:var(--main-color);
     }
     .navbarElement {
-        --text-color:#FFE7D8;
+        --text-color:var(--main-color);
     }
     .navbarContainer {
-        background: #27231E;
+        background: var(--background-color);
     }
 </style>

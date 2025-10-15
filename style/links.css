@@ -1,5 +1,11 @@
 :root {
     --link-border-radius: 15px;
+
+    --background-color:#27231e;
+    --main-color:rgb(255, 231, 216);
+    --acc-color:rgb(155, 134, 94);
+    --3rd-color:rgb(235, 216, 191);
+    --highlight-color: rgb(223, 192, 135);
 }
 
 .header {
@@ -15,18 +21,18 @@
     width: 12.5%;
     aspect-ratio: 1 / 1;
     border-radius: 5%;
-    border: solid 5px rgb(155, 134, 94);
+    border: solid 5px var(--acc-color);
     margin-bottom: -20px;
     user-select: none;
     -webkit-user-drag: none;
 }
 .hello {
-    color:rgb(255, 231, 216);
+    color:var(--main-color);
     font-size:70px;
     margin-bottom: -7px;
 }
 .these {
-    color: rgb(255, 231, 216);
+    color: var(--main-color);
     font-size:60px;
     margin-bottom: 20px;
 }
@@ -57,9 +63,7 @@
 }
 
 body {
-     background: 
-        linear-gradient(rgba(20, 20, 20, .9), rgba(20, 20, 20, .9)),
-        url('../img/background.png') repeat ;
+     background: var(--background-color)
 }
 
 .link-container {
@@ -77,7 +81,7 @@ body {
     font-size: 25px;
     align-content: center;
     padding-left: 85px;
-    color: rgb(255, 231, 216);
+    color: var(--main-color);
 
     justify-self: center;
     align-self: center;
@@ -107,14 +111,14 @@ body {
     height: calc(100% - 2 * var(--border-width));
     width: calc(100% - 2 * var(--border-width));
     aspect-ratio: 1 / 1;
-    background-color: rgb(235, 216, 191);
+    background-color: var(--3rd-color);
     justify-self: center;
     align-self: center;
     border-radius: calc(var(--link-border-radius) - var(--border-width));
     z-index:2;
 }
 .link-container:hover {
-    cursor: pointer;
+    cursor: var(--cur-link), pointer;
     filter: brightness(1.1) drop-shadow(0 10px 10px rgb(0, 0, 0));
     transform: translateY(-7px) scale(1.02);
 }
@@ -131,8 +135,7 @@ body {
     left: 2.5%;
     bottom:0;
     right:2.5%;
-    background-color: rgb(235, 216, 191);
-    background: linear-gradient(rgba(235, 216, 191, .7), rgba(235, 216, 191, .7)), url(../img/background.png) no-repeat center;
+    background-color: var(--3rd-color);
     background-size: cover;
     border: 10px solid;
     border-color: var(--link-color);
@@ -140,7 +143,7 @@ body {
     z-index: -1;
 }
 .twitchholder:hover {
-    cursor: pointer;
+    cursor: var(--cur-link), pointer;
     filter: brightness(1.1) drop-shadow(0 10px 10px rgb(0, 0, 0));
     transform: translateY(-7px) scale(1.02);
 }
@@ -188,7 +191,7 @@ body {
     width: 50%;
     aspect-ratio: 1 / 1;
     border-radius: 5%;
-    border: solid 5px rgb(155, 134, 94);
+    border: solid 5px var(--acc-color);
     margin-bottom: -10px;
     user-select: none;
     -webkit-user-drag: none;
@@ -200,8 +203,27 @@ body {
         height: auto;
     }
     .link-container.twitch:hover {
-        cursor: pointer;
+        cursor: var(--cur-link), pointer;
         filter: brightness(1.1) drop-shadow(0 10px 10px rgb(0, 0, 0));
         transform: translateY(-7px) scale(1.02);
     }
+}
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+    border-radius: 5px;
+}::-webkit-scrollbar-thumb:hover{
+    background-color: var(--highlight-color);
+}::-webkit-scrollbar-thumb:active{
+    background-color: var(--acc-color);
+}
+
+
+::-webkit-scrollbar-track{
+    background-color: transparent;
 }
