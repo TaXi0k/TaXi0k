@@ -108,6 +108,7 @@
 
 body, html {
     cursor: var(--cur-normal), default;
+    display:flex; flex-direction: column;
 }
 
 
@@ -199,5 +200,44 @@ body, html {
 }
 
 .footer {
-    
+    --text-color: white;
+    --background-color:black;
+    background-color: var(--background-color);
+    margin-top: auto;
+    height: 100px;
+    width: 100%;
+    border-top: solid var(--text-color) 2px;
+    display: flex;
+}
+.footer-text {
+    color:var(--text-color);
+    font-family: LemonMilk;
+    font-size: 30px;
+    width: 50%;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+    text-align: left;
+    text-justify: center;
+    padding-left: 25px;
+    font-weight: 300;
+}
+.footer-link {
+    width: 50%;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+    text-align: right;
+    text-justify: center;
+    padding-right: 25px;
+}
+.footer-link a {
+    color:var(--text-color);
+    font-family: LemonMilk;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 30px;
+}
+.footer-link a:hover {
+    cursor: var(--cur-link), pointer;
 }
