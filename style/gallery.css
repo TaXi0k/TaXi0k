@@ -24,7 +24,7 @@ body {
     background-color: rgb(73, 73, 73);
 }
 .gallery-item:hover {
-    cursor: var(--cur-link) pointer;
+    cursor: var(--cur-link), pointer;
 }
 .gallery-item img {
     width: 100%;
@@ -83,7 +83,7 @@ body {
     right: 40px;
     color: #fff;
     font-size: 60px;
-    cursor: var(--cur-link) pointer;
+    cursor: var(--cur-link), pointer;
     z-index: 1001;
     background: none;
     border: none;
