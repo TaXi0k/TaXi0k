@@ -208,6 +208,7 @@ body, html {
     width: 100%;
     border-top: solid var(--text-color) 2px;
     display: flex;
+    justify-self: baseline;
 }
 .footer-text {
     color:var(--text-color);

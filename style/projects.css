@@ -1,0 +1,76 @@
+:root {
+    --main-color:white;
+    --background-color:black;
+}
+
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-items: center;
+    font-family: LemonMilk;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.header-title {
+    font-size: 60px;
+    font-weight: 500;
+    color: #ffffff;
+    margin: 0;
+}
+
+.header-subtitle {
+    font-size: 20px;
+    font-weight: 300;
+    color: #888888;
+    margin: 10px 0 0 0;
+}
+
+.projectContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #080808;
+}
+.projectItem {
+    position: relative;
+    overflow: hidden;
+    cursor: var(--cur-link), pointer;
+    aspect-ratio: 16/11.5;
+    background-color: #1e1e1e;
+    transition: transform .3s ease, filter .3s ease, box-shadow .3s ease;
+}
+.projectItem:hover {
+    transform: scale(1.05);
+    z-index: 10;
+    box-shadow: 1px 1px 34px 10px rgba(0, 0, 0, 1);
+}
+.projectItem img {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+.projectInfo {
+    padding: 7.5px;
+}
+.projectName {
+    font-family: LemonMilk;
+    font-weight: 400;
+    font-size: 20px;
+    color:white;
+}
+.projectDesc {
+    font-family: LemonMilk;
+    color:#a9a9a9;
+    font-weight: 300;
+    font-size: 12px;
+}
