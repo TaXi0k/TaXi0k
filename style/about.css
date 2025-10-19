@@ -1,0 +1,66 @@
+:root {
+    --background-color: black;
+    --main-color: white;
+}
+
+body {
+    margin: 0;
+    background-color: var(--background-color);
+    height: 100dvh;
+}
+
+.header {
+    margin-top: 150px;
+    color: var(--main-color);
+    font-family: LemonMilk;
+    font-size: 60px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    max-width: 85%;
+    margin: 100px auto;
+    display: flex;
+    height: auto;
+}
+.info {
+    width: 15%;
+}
+.story {
+    width: 85%;
+    font-family: LetteraMono;
+    font-weight: 1;
+    font-size: 20px;
+    text-align: justify;
+}
+p {
+    margin: 0;
+    font-family: LetteraMono;
+    font-weight: 300;
+    color: #dfdfdf;
+}
+.h {
+    font-weight: 500;
+    margin: 20px 0;
+    color: #ffffff;
+    font-family: LemonMilk;
+}
+.b {
+    font-weight: 700;
+    color: #ffffff;
+}
+.space {
+    height: 100px;
+}
+.story a {
+    color:blueviolet;
+    cursor:var(--cur-link), pointer;
+}
+.story a:hover {
+    color: color-mix(in srgb, blueviolet, white 40%);
+}
+.story p {
+    margin: 10px 0;
+}

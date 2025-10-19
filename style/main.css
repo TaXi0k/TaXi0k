@@ -89,6 +89,22 @@
     font-style: italic;
     font-weight: 700;
 }
+
+/**NType82 Font**/
+@font-face {
+    font-family: NType;
+    src: url('../font/NType82/NType82-Regular.otf');
+}
+@font-face {
+    font-family: NTypeMono;
+    src: url('../font/NType82/NType82Mono-Regular.otf');
+}
+
+/**LetteraMono Font**/
+@font-face {
+    font-family: LetteraMono;
+    src: url('../font/LetteraMono/LetteraMonoLLCondLight-Regular.otf');
+}
 /*END OF FONTS*/
 
 
