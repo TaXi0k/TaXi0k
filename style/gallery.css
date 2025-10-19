@@ -163,6 +163,9 @@ body {
     .galleryInfo {
         opacity: 1;
     }
+    .lightboxClose {
+        top: 70px;
+    }
 }
 
 ::-webkit-scrollbar {

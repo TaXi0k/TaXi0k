@@ -76,6 +76,18 @@ body {
     font-size: 12px;
 }
 
+@media (max-width: 1024px) {
+    .projectName {
+        font-size:15px;
+    }
+    .projectDesc {
+        font-size: 6px;
+    }
+    .projectDesc::after {
+        content: "GL reading that XD but I did't fit larger font.";
+    }
+}
+
 @media (max-width: 768px) {
     .projectContainer {
         grid-template-columns: repeat(2, 1fr);
@@ -96,7 +108,9 @@ body {
     
     .projectDesc {
         font-size: 10px;
-        display: none;
+    }
+    .projectDesc::after {
+        content: "";
     }
 }
 
@@ -109,7 +123,17 @@ body {
     }
     
     .projectDesc {
+        font-size: 10px;  
+    }
+}
+@media (max-width: 320px) {
+    .projectDesc {
         font-size: 10px;
-        
+    }
+    .projectDesc span {
+        display: none;
+    }
+    .projectDesc::after {
+        content: "Description didn't fit. Get a bigger screen.";
     }
 }
