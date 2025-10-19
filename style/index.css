@@ -24,6 +24,8 @@
     transform-origin: center;
 }
 
+
+
 @keyframes title_animation {
     0%,100% {
         background-position: 0 0;
@@ -129,4 +131,30 @@ body.show-scrollbar::-webkit-scrollbar {
 }
 .toggleScroll:hover {
     background-color: rgba(255, 255, 255, 0.35);
+}
+
+@media (max-width: 768px) {
+    .paralaxContainer {
+        top:60px;
+    }
+    .scrollDownContainer {
+        display: none;
+    }
+    .title {
+        margin-top: 100px;
+    }
+    .title > span:nth-child(1) {
+        font-weight: 525;
+        font-size:45px;
+        margin-right: 15px;
+    }
+    .title > span:nth-child(2) {
+        font-weight: 700;
+        text-decoration: underline;
+        font-size:45px;
+    }
+    .title > span:nth-child(4) {
+        font-size: 20px;
+        color:rgb(255,255,255,170)
+    }
 }

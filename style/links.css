@@ -63,7 +63,22 @@
 }
 
 body {
-     background: var(--background-color)
+    background: var(--background-color)
+}
+
+.mobileNavbar {
+    background-color: var(--background-color);
+    border-color: var(--main-color);
+}
+.mobileActive {
+    background-color: var(--background-color);
+    border-color: var(--main-color);
+}
+.mobileNavbar a.icon {
+    color: var(--main-color);
+}
+.mobileNavbar a {
+    color: var(--main-color);
 }
 
 .link-container {

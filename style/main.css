@@ -287,7 +287,9 @@ body, html {
     .mobileNavbar #myLinks {
         display: none;
     }
-
+    #myLinks {
+        display: none;
+    }
     .mobileNavbar a {
         padding: 14px 16px;
         text-decoration: none;
