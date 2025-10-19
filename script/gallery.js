@@ -27,17 +27,17 @@ function loadGallery() {
 
     images.forEach(img => {
         const item = document.createElement('div');
-        item.className = 'gallery-item';
+        item.className = 'galleryItem';
 
         const image = document.createElement('img');
         image.src = img.path;
         image.alt = img.name;
 
         const info = document.createElement('div');
-        info.className = 'gallery-info';
+        info.className = 'galleryInfo';
         info.innerHTML = `
-            <div class="gallery-name">${img.name}</div>
-            <div class="gallery-game">${img.game}</div>
+            <div class="galleryName">${img.name}</div>
+            <div class="galleryGame">${img.game}</div>
         `;
 
         item.appendChild(image);

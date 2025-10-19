@@ -7,6 +7,7 @@
         <link rel="icon" type="image/png" href="img/favicon.png" >
         <link rel="stylesheet" href="style/main.css">
         <link rel="stylesheet" href="style/projects.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="navbarContainer">
@@ -20,10 +21,23 @@
                 <a href="about.html" style="text-decoration: none;"><div class="navbarElement">About Me</div></a>
             </div> <!--Landing pgae-->
         </div>
+        <div class="mobileNavbar">
+            <a href="projects.html" class="mobileActive">Projects</a>
+            <div id="mobileLinks">
+                <a href="index.html">Home</a>
+                <a href="links.html">Links</a>
+                <a href="gallery.html">Gallery</a>
+                <a href="https://twitch.tv/taxi0k">Streams</a>
+                <a href="about.html">About Me</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="toggleMobileNavbar()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
 
             <div class="header">
-                <p class="header-title">My projects</p>
-                <p class="header-subtitle">Here you can find all my projects.</p>
+                <p class="headerTitle">My projects</p>
+                <p class="headerSubtitle">Here you can find all my projects.</p>
             </div>
             
             <div class="projectContainer" id="projectContainer"></div>
@@ -36,6 +50,7 @@
     </body>
 </html>
 
+<script src="script/main.js"></script>
 <script src="script/quote.js"></script>
 <script src="script/projects.js"></script>
 <style>

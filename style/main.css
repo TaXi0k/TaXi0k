@@ -242,3 +242,75 @@ body, html {
 .footer-link a:hover {
     cursor: var(--cur-link), pointer;
 }
+
+.mobileNavbar {
+    display: none;
+    position: fixed;
+    top:0px;
+}
+
+@media (max-width: 768px) {
+    .footer {
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 1440px) {
+    .navbarQuote {
+        display: none;
+    }
+    .navbarLinks {
+        width: 100%;
+    }
+}
+
+
+/**Navbar on mobile**/
+@media (max-width: 768px) {
+    .navbarContainer {
+        display: none;
+    }
+
+    .mobileNavbar {
+        position: fixed;
+        top:0px;
+        border-bottom: solid 2px white;
+        display:block;
+        overflow: hidden;
+        background-color: #000000;
+        z-index: 10000;
+        width: 100%;
+    }
+
+    .mobileNavbar #myLinks {
+        display: none;
+    }
+
+    .mobileNavbar a {
+        padding: 14px 16px;
+        text-decoration: none;
+        display: block;
+        font-family: LemonMilk;
+        color: white;
+    }
+
+    .mobileNavbar a.icon {
+        font-size: 31;
+        color: white;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+        aspect-ratio: 1;
+    }
+
+    .mobileActive {
+        background-color: black;
+        color: white;
+        border-bottom: solid 2px white;
+        font-weight: 400;
+        font-size: 22.5px;
+    }
+}

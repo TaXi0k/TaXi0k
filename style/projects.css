@@ -19,14 +19,14 @@ body {
     margin-bottom: 50px;
 }
 
-.header-title {
+.headerTitle {
     font-size: 60px;
     font-weight: 500;
     color: #ffffff;
     margin: 0;
 }
 
-.header-subtitle {
+.headerSubtitle {
     font-size: 20px;
     font-weight: 300;
     color: #888888;
@@ -73,4 +73,42 @@ body {
     color:#a9a9a9;
     font-weight: 300;
     font-size: 12px;
+}
+
+@media (max-width: 768px) {
+    .projectContainer {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2px;
+        padding: 10px;
+    }
+    
+    .headerTitle {
+        font-size: 40px;
+    }
+    
+    .headerSubtitle {
+        font-size: 16px;
+    }
+    .projectName {
+        font-size: 15px;
+    }
+    
+    .projectDesc {
+        font-size: 10px;
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
+    .projectContainer {
+        grid-template-columns: 1fr;
+    }
+    .projectName {
+        font-size: 15px;
+    }
+    
+    .projectDesc {
+        font-size: 10px;
+        
+    }
 }

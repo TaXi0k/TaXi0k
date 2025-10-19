@@ -7,6 +7,7 @@
         <link rel="icon" type="image/png" href="img/favicon.png" >
         <link rel="stylesheet" href="style/main.css">
         <link rel="stylesheet" href="style/gallery.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="navbarContainer">
@@ -18,17 +19,30 @@
                 <a href="gallery.html" style="text-decoration: none;"><div class="navbarElement">Gallery</div></a>
                 <a href="https://twitch.tv/taxi0k" target="_blank" style="text-decoration: none;"><div class="navbarElement">Streams</div></a>
                 <a href="about.html" style="text-decoration: none;"><div class="navbarElement">About Me</div></a>
-            </div> <!--Landing pgae-->
+            </div>
+        </div>
+        <div class="mobileNavbar">
+            <a href="gallery.html" class="mobileActive">Gallery</a>
+            <div id="mobileLinks">
+                <a href="index.html">Home</a>
+                <a href="links.html">Links</a>
+                <a href="projects.html">Projects</a>
+                <a href="https://twitch.tv/taxi0k">Streams</a>
+                <a href="about.html">About Me</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="toggleMobileNavbar()">
+                <i class="fa fa-bars"></i>
+            </a>
         </div>
 
             <div class="header">
-                <p class="header-title">My photo gallery</p>
-                <p class="header-subtitle">Here I put my most interesting screenshots and photos.</p>
+                <p class="headerTitle">My photo gallery</p>
+                <p class="headerSubtitle">Here I put my most interesting screenshots and photos.</p>
             </div>
             <div class="gallery" id="gallery"></div>
 
             <div class="lightbox" id="lightbox" onclick="if(event.target === this) closeLightbox()">
-                <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+                <button class="lightboxClose" onclick="closeLightbox()">&times;</button>
                 <img id="lightboxImg" src="" alt="">
             </div>
             <!--Footer-->
@@ -39,6 +53,7 @@
     </body>
 </html>
 
+<script src="script/main.js"></script>
 <script src="script/quote.js"></script>
 <script src="script/gallery.js"></script>
 <style>
