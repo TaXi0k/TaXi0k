@@ -1,1 +1,1 @@
-maybe soon idk
+This branch is for my personal website: <a href="taxi0k.github.io/TaXi0k">taxi0k.github.io/TaXi0k</a>. Feel free to check it out!
