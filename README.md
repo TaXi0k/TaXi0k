@@ -49,52 +49,52 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/html.png?raw=true"></td>
       <td>HTML</td>
-      <td>I'd say 7.5/10.</td>
+      <td>I mean i know some HTML Not too much but I'm Not that bad at it.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/css.png?raw=true"></td>
       <td>CSS</td>
-      <td>Something like 7/10 to 8/10.</td>
+      <td>I'm actually not bad at this ona.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/cpp.png?raw=true"></td>
       <td>C++</td>
-      <td>Not too great ngl, up to 5/10.</td>
+      <td>My fav programming language but I still don't know too much.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/python.png?raw=true"></td>
       <td>Python</td>
-      <td>Pretty mid, like 4/10 maybe 5/10.</td>
+      <td>Nothing special, some basics projects. I'm more of cpp person.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/ue.png?raw=true"></td>
       <td>Unreal Engine</td>
-      <td>I know something but not too much. Like 5/10 maybe 6/10 but that's a stretch.</td>
+      <td>Only basics again. I finished ona project and I'm working on 2nd more ambitious this time.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/blender.png?raw=true"></td>
       <td>Blender</td>
-      <td>I wouldn't give myself more than 6/10 but honestly it might be a bit too much.</td>
+      <td>I made a donut and it was quite nice. Besides only some smaller projects nothing serious yet.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/java.png?raw=true"></td>
       <td>Java</td>
-      <td>Again something close to 4/10 maybe 5/10.</td>
+      <td>Nothing special but I can do some more basic things.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/inkscape.png?raw=true"></td>
       <td>Inkscape</td>
-      <td>I know basics and can make some simple things. Like idk 5/10 maybe.</td>
+      <td>I know basics and can make some simple things.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/davinci.png?raw=true"></td>
       <td>DaVinci Resolve</td>
-      <td>I can edit basic videos with some effects and transitions. I'd give myself something like 5/10.</td>
+      <td>I can edit basic videos with some effects and transitions.</td>
     </tr>
     <tr>
       <td><img width="30" height="30" alt="" src="https://github.com/TaXi0k/TaXi0k/blob/main/.github/assets/skills/ps.png?raw=true"></td>
       <td>Photoshop</td>
-      <td>Maybe something like 7/10.</td>
+      <td>I know something but mostly basics.</td>
     </tr>
     <tr>
       <td></td>
