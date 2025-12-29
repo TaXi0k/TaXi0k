@@ -96,10 +96,5 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
       <td>Photoshop</td>
       <td>I know something but mostly basics.</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td><strong>Note:</strong> I don't have any certificates, that's just my estimation (what I'd give myself) so it likely isn't objective. TBH most marks should propably be a lot lower.</td>
-    </tr>
   </tbody>
 </table>
