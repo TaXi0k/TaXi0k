@@ -24,5 +24,5 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 # Currently working on
 
-* **MyDeathLink:** DarkSouls 3 support
+* WICS
 * My private website
