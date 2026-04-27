@@ -1,8 +1,8 @@
 /**Toggle scrollbar**/
-const toggleScroll = document.getElementById('toggleScroll');
+/*const toggleScroll = document.getElementById('toggleScroll');
 toggleScroll.addEventListener('click', () => {
     document.body.classList.toggle('show-scrollbar');
-});
+});*/
 
 
 /**Scrolldown after clicking on scroll down**/

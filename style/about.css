@@ -27,6 +27,21 @@ body {
     animation: glow 2s ease-in-out infinite alternate;
 }
 
+@property --wbLineLength {
+    syntax: '<length>';
+    inherits: true;
+    initial-value: 20px;
+}
+@property --wbLineWidth {
+    syntax: '<length>';
+    inherits: true;
+    initial-value: 3px;
+}
+@keyframes whiteButtonHover {
+    from {--wbLineLength: 20px;}
+    to {--wbLineLength: var(--maxLength);}
+}
+
 @keyframes glow {
     from { filter: drop-shadow(0 0 20px #667eea); }
     to { filter: drop-shadow(0 0 40px #764ba2); }
@@ -49,38 +64,36 @@ body {
     flex-direction: column;
     gap: 30px;
 }
-
 .pinfo, .skill {
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 0px;
-    padding: 25px;
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    position: relative;
-    overflow: hidden;
+    position:relative;
+}.pinfo:hover, .skill:hover {
+    animation: whiteButtonHover .5s ease-in-out forwards;
 }
-
-.pinfo::before, .skill::before {
-    content: '';
+.skill .a, .skill .b, .skill .c, .skill .d, .pinfo .a, .pinfo .b, .pinfo .c, .pinfo .d {
+    background-color: white;
     position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-    transition: left 0.5s;
-    z-index: 0;
+    top: 0;left:0;right:0;bottom:0;
+}
+.skill .a, .pinfo .a { /*Top Right*/
+    clip-path: polygon(100% 0%, calc(100% - var(--wbLineLength)) 0, calc(100% - var(--wbLineLength)) var(--wbLineWidth), calc(100% - var(--wbLineWidth)) var(--wbLineWidth), calc(100% - var(--wbLineWidth)) var(--wbLineLength), 100% var(--wbLineLength));
+}
+.skill .b, .pinfo .b { /*Bottom Right*/
+    clip-path: polygon(100% 100%, 100% calc(100% - var(--wbLineLength)), calc(100% - var(--wbLineWidth)) calc(100% - var(--wbLineLength)), calc(100% - var(--wbLineWidth)) calc(100% - var(--wbLineWidth)), calc(100% - var(--wbLineLength)) calc(100% - var(--wbLineWidth)), calc(100% - var(--wbLineLength)) 100%);
+}
+.skill .c, .pinfo .c { /*Bottom Left*/
+    clip-path: polygon(0% 100%, var(--wbLineLength) 100%, var(--wbLineLength) calc(100% - var(--wbLineWidth)), var(--wbLineWidth) calc(100% - var(--wbLineWidth)), var(--wbLineWidth) calc(100% - var(--wbLineLength)), 0% calc(100% - var(--wbLineLength)));
+}
+.skill .d, .pinfo .d { /*Top Left*/
+    clip-path: polygon(0% 0%, var(--wbLineLength) 0%, var(--wbLineLength) var(--wbLineWidth), var(--wbLineWidth) var(--wbLineWidth), var(--wbLineWidth) var(--wbLineLength), 0% var(--wbLineLength));
 }
 
-.pinfo:hover::before, .skill:hover::before {
-    left: 100%;
+.skill, .pinfo {
+    padding: 20px;
 }
-
-.pinfo:hover, .skill:hover {
-    transform: translateY(-5px);
-    border-color: rgba(102, 126, 234, 0.5);
-    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);
+.skill b, .pinfo b {
+    font-weight: 900;
+    color: #fafafa;
+    margin-left: 10px;
 }
 
 .story {
@@ -95,7 +108,7 @@ body {
 p {
     margin: 0;
     font-family: LetteraMono;
-    font-weight: 300;
+    font-weight: 100;
     color: #dfdfdf;
     position: relative;
     z-index: 1;
@@ -104,7 +117,7 @@ p {
 .h {
     font-weight: 500;
     margin: 0 0 15px 0;
-    color: #667eea;
+    color: white;
     font-family: LemonMilk;
     font-size: 0.85rem;
     text-transform: uppercase;
@@ -151,6 +164,10 @@ p {
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     position: relative;
     overflow: hidden;
+}
+
+.whiteButton {
+    position: relative;
 }
 
 .specsButton::before {

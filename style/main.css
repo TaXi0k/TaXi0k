@@ -107,6 +107,24 @@
 }
 /*END OF FONTS*/
 
+/**PROPERTIES**/
+@property --wbLineLength {
+    syntax: '<length-percentage>';
+    inherits: true;
+    initial-value: 20px;
+}
+@property --wbLineWidth {
+    syntax: '<length>';
+    inherits: true;
+    initial-value: 3px;
+}
+
+/**KEYFRAMES**/
+
+.plain {
+    text-decoration: none;
+    color: inherit;
+}
 
 /*------------*/
 /**VARIABLES**/
@@ -121,10 +139,118 @@
     --cur-no: url('../img/cursor/unavailiable.cur');
 }
 
+* {
+    box-sizing: border-box;
+}
 
 body, html {
     cursor: var(--cur-normal), default;
     display:flex; flex-direction: column;
+    scroll-behavior: smooth;
+}
+
+
+
+
+nav {
+    position: fixed;
+    top:0;left:0;right:0;
+    background-color: rgba(0, 0, 0, 0.405);
+    z-index: 10000;
+    display: flex;
+    flex-direction: row;
+}
+nav a {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
+nav a img {
+    height: 50px;
+    width: auto;
+    filter: saturate(0) brightness(5.5);
+}
+nav filler {
+    display: inline-block;
+    flex-grow: 1;
+}
+
+footer {
+    margin-top: auto;
+    width: 100%;
+    height: 100px;
+    color: white;
+    border-top: solid 2px white;
+    display: flex;
+}
+
+
+
+
+
+
+
+.whiteButton {
+    --wbLineLength: 20px;
+    --wbLineWidth: 3px;
+    --maxLength: 60px;
+
+
+    font-family: LetteraMono, monospace;
+    user-select: none;
+    cursor: var(--cur-link), pointer;
+    color: white;
+    text-align: center;
+    align-content: center;
+    font-size: 1.75vw;
+    padding-top:calc(12.5px + 8px);
+    padding-left:calc(18.5px + 8px);
+    padding-right:calc(18.5px + 8px);
+    padding-bottom:calc(4.5px + 8px);
+    
+    transition: color .3s ease-in-out, --wbLineLength .3s ease-in-out;
+}.whiteButton::after{
+    z-index: -1;
+    content:'';
+    position:absolute;
+    bottom:7.5px;right:7.5px;
+    left:7.5px;top:7.5px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.whiteButton:hover {
+    color: black;
+    --wbLineLength: 52%;
+}.whiteButton:hover::after{
+    background-color: white;
+    transition: background-color .3s ease-in-out;
+}
+
+.whiteButton:active {
+    color:white;
+    transition: color .1s;
+}.whiteButton:active::after{
+    background-color: transparent;
+    transition: background-color .1s;
+    animation: none;
+}
+
+.whiteButton .a, .whiteButton .b, .whiteButton .c, .whiteButton .d {
+    background-color: white;
+    position: absolute;
+    top: 0;left:0;right:0;bottom:0;
+}
+.whiteButton .a { /*Top Right*/
+    clip-path: polygon(100% 0%, calc(100% - var(--wbLineLength)) 0, calc(100% - var(--wbLineLength)) var(--wbLineWidth), calc(100% - var(--wbLineWidth)) var(--wbLineWidth), calc(100% - var(--wbLineWidth)) var(--wbLineLength), 100% var(--wbLineLength));
+}
+.whiteButton .b { /*Bottom Right*/
+    clip-path: polygon(100% 100%, 100% calc(100% - var(--wbLineLength)), calc(100% - var(--wbLineWidth)) calc(100% - var(--wbLineLength)), calc(100% - var(--wbLineWidth)) calc(100% - var(--wbLineWidth)), calc(100% - var(--wbLineLength)) calc(100% - var(--wbLineWidth)), calc(100% - var(--wbLineLength)) 100%);
+}
+.whiteButton .c { /*Bottom Left*/
+    clip-path: polygon(0% 100%, var(--wbLineLength) 100%, var(--wbLineLength) calc(100% - var(--wbLineWidth)), var(--wbLineWidth) calc(100% - var(--wbLineWidth)), var(--wbLineWidth) calc(100% - var(--wbLineLength)), 0% calc(100% - var(--wbLineLength)));
+}
+.whiteButton .d { /*Top Left*/
+    clip-path: polygon(0% 0%, var(--wbLineLength) 0%, var(--wbLineLength) var(--wbLineWidth), var(--wbLineWidth) var(--wbLineWidth), var(--wbLineWidth) var(--wbLineLength), 0% var(--wbLineLength));
 }
 
 

@@ -6,3 +6,7 @@ function toggleMobileNavbar() {
         list.style.display = 'block';
     }
 };
+
+document.querySelectorAll('.whiteButton').forEach(button => {
+    button.style.setProperty('--maxLength', button.offsetWidth/1.5 + 'px');
+});
