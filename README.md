@@ -15,12 +15,13 @@ Hi, I'm **TaXi0k** - a **Polish** guy who enjoys writing code, playing and creat
 
 # Tools I use
 
-* **Text Editor:** [Visual Studio Code](https://code.visualstudio.com)
-* **IDE:** [Visual Studio 2022](https://visualstudio.microsoft.com/pl/vs)
+* **IDE:** [Visual Studio Code](https://code.visualstudio.com)
 * **Game Engine:** [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)
+* **Graphics:** [Affinity](https://www.affinity.studio/)
 * **3D:** [Blender](https://www.blender.org)
 
 # Currently working on
 
-* WICS
+* [WICS](https://github.com/TaXi0k/WICS)
+* [MyDeathLink:Revenant](https://github.com/TaXi0k/MDL-R)
 * My private website
